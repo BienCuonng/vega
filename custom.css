@@ -1,0 +1,416 @@
+html,
+
+.boss {
+    background-color: yellow;
+
+}
+
+.tagline {
+    width: 100%;
+}
+
+.khungtong {
+    display: flex;
+    flex-direction: row;
+    /* Đặt chiều dọc */
+    height: 500px;
+    width: 100px;
+    color: rgb(230, 218, 241);
+
+}
+
+.b {
+    width: auto;
+    height: 700px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 5px solid red;
+    border-radius: 3%;
+    background-color: rgb(243, 207, 240);
+
+
+}
+
+.c {
+    width: auto;
+    height: 700px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 5px solid red;
+    border-radius: 3%;
+    background-color: rgb(243, 207, 240);
+
+}
+
+.d {
+    width: auto;
+    height: 900px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 5px solid red;
+    border-radius: 3%;
+    background-color: rgb(243, 207, 240);
+
+
+}
+
+.e {
+    width: auto;
+    height: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 5px solid red;
+    border-radius: 3%;
+    background-color: rgb(243, 207, 240);
+
+}
+
+.f {
+    display: flex;
+    flex-direction: row;
+    /* Đặt chiều dọc */
+    width: auto;
+    height: 900px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 40px solid black;
+    border-radius: 3%;
+    background-color: purple;
+    align-items: center;
+
+
+
+}
+
+.khunglaptong {
+    display: flex;
+    flex-direction: row;
+}
+
+.win {
+
+    width: 49%;
+    height: 480px;
+    margin-top: 2px;
+    margin-left: 2px;
+    border: 2px solid red;
+    background-color: rgb(180, 205, 226);
+    text-align: center
+}
+
+.mac {
+
+    width: 50%;
+    height: 480px;
+    margin-top: 2px;
+    margin-right: 2px;
+    border: 2px solid red;
+    background-color: rgb(180, 205, 226);
+    text-align: center;
+
+
+}
+
+.cogai {
+    width: 49%;
+    height: 420px;
+    margin-top: 25px;
+    margin-right: 2px;
+    border: 2px solid red;
+    text-align: center;
+}
+
+.kogai {
+    width: 50%;
+    height: 420px;
+    margin-top: 25px;
+    margin-right: 2px;
+    border: 2px solid red;
+    text-align: center;
+}
+
+.x {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(243, 207, 240);
+    border-radius: 5%;
+    border: 5px solid rgb(255, 0, 0);
+
+}
+
+.a {
+    background-color: rgb(243, 207, 240);
+
+    border-radius: 2%;
+    border: 5px solid rgb(255, 0, 0);
+
+
+}
+
+.khung {
+    margin-left: 23px;
+    margin-bottom: 60px;
+    background-color: rgb(23, 136, 235);
+    border-radius: 10%;
+    cursor: pointer;
+
+}
+
+.khung:hover {
+    margin-top: 10px;
+    transition: 0.5s;
+}
+
+
+.anhdt {
+    height: 180px;
+    width: 250x;
+    border-radius: 10%;
+}
+
+.anhdt15 {
+    height: 180px;
+    width: 170px;
+    border-radius: 10%;
+}
+
+.anhdt15:hover {
+    margin-top: 10px;
+    transition: 0.75s;
+}
+
+.tieude {
+    text-align: center;
+    font-size: 40px;
+    height: 70px;
+    width: auto;
+    background-color: rgba(253, 34, 34, 0.884);
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.timkiemtong {
+    margin-left: 5px;
+    margin-top: 40px;
+    height: 30px;
+    margin-bottom: 50px;
+    margin-right: 1600px;
+    width: 250px;
+    background-color: aliceblue;
+}
+
+.timkiem {
+    margin-top: 4px;
+    color: white;
+    background-color: blueviolet;
+}
+
+.nut {
+    margin-left: 30%;
+    height: 20px;
+    width: 70px;
+    background-color: yellow;
+    border: 2px solid rgb(247, 4, 255);
+    cursor: pointer;
+
+}
+
+.nutlap {
+    align-items: center;
+    background-color: rgb(255, 0, 0);
+    color: white;
+    width: 70px;
+    cursor: pointer;
+}
+
+.nutlap:hover {
+    color: black;
+    background-color: aliceblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin-left: 5px;
+}
+
+h3 {
+    margin-left: 5px;
+}
+
+h4 {
+    margin-left: 5px;
+    color: yellow;
+}
+
+h5 {
+    margin-top: 2px;
+    margin-bottom: 50px;
+    margin-left: 40px;
+}
+
+.nut:hover {
+    background-color: aliceblue;
+}
+
+.anhnsx {
+    margin-top: 10px;
+    margin-left: 40px;
+    width: 100px;
+    height: 100px;
+}
+
+.NhaSX {
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.NhaSX:hover {
+    margin-top: 5px;
+    margin-left: 2px;
+    transition: 0.5s;
+}
+
+.ThongTin {
+    height: auto;
+    width: 1000px;
+}
+
+.ttcb {
+    border: 2% solid red;
+    padding: 5px;
+    background-color: rgb(245, 177, 177);
+    height: auto;
+    width: 800px;
+}
+
+.ttct {
+    border: 2% solid red;
+    padding: 5px;
+    background-color: rgb(245, 177, 177);
+    height: auto;
+    width: auto;
+
+}
+
+td {
+    border: 2px solid red;
+    height: 25px;
+
+}
+
+.nhanxet {
+    height: auto;
+    width: 550px;
+    margin-left: 10px;
+}
+
+.nutdanhgia {
+    margin-top: 5px;
+    margin-left: 45%;
+    height: 45px;
+    width: 200px;
+    cursor: pointer;
+}
+
+
+.khunglap {
+    border: 2px solid red;
+    height: 400px;
+    width: 200px;
+    margin-left: 18px;
+    background-color: rgb(179, 241, 7);
+    border-radius: 9%;
+}
+
+.khunglap:hover {
+    margin-top: 10px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.anhlap {
+    height: 180px;
+    width: 200px;
+    border-radius: 13%;
+}
+
+.nutcomment {
+    cursor: pointer;
+}
+
+.khungcomment {
+    border: 2px solid red;
+    border-radius: 10px;
+    height: 280px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+
+}
+
+.suy {
+    border: 5px solid pink;
+    margin-left: 464px;
+    color: rgb(255, 255, 255)
+}
+
+.video_ytb {
+    border: 5px solid pink;
+    margin-left: ;
+    color: rgb(255, 255, 255)
+}
+
+.menu {
+    width: auto;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 5px solid red;
+    border-radius: 10%;
+    background-color: rgb(243, 207, 240);
+
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 20px; /* Khoảng cách giữa các mục danh sách */
+  }
+  
+  nav ul li:last-child {
+    margin-right: 0; /* Loại bỏ khoảng cách ở mục danh sách cuối cùng */
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    padding: 10px 20px;
+    display: block; /* Thiết lập mỗi mục danh sách là một khối */
+    color: #333;
+  }
+  
+  nav ul li a:hover {
+    background-color: #f0f0f0;
+  }
+  .slider {
+    overflow: hidden;
+  }
+  
+  .slide {
+    display: none;
+  }
+  
+  .slide img {
+    width: 100%;
+    height: auto;
+  }
+  
